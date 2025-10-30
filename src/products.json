@@ -1,0 +1,28 @@
+[
+    {
+        "name": "Wayward compass",
+        "notch": "1",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati accusantium quibusdam deserunt rem aspernatur nobis.",
+        "img": "https://ih1.redbubble.net/image.598703842.4837/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.u4.webp"
+    }, {
+        "name": "Grimmchild",
+        "notch": "3",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati accusantium quibusdam deserunt rem aspernatur nobis.",
+        "img": "https://ih1.redbubble.net/image.651664727.4628/st,medium,507x507-pad,600x600,f8f8f8.u2.webp"
+    }, {
+        "name": "Fury of the Fallen",
+        "notch": "2",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati accusantium quibusdam deserunt rem aspernatur nobis.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/4/4f/Fury_of_the_Fallen.png/revision/latest?cb=20180909171045"
+    }, {
+        "name": "Unbreakable strength",
+        "notch": "3",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati accusantium quibusdam deserunt rem aspernatur nobis.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/a/ac/Unbreakable_Strength.png/revision/latest?cb=20171028004739"
+    }, {
+        "name": "Thorns of Agony",
+        "notch": "1",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati accusantium quibusdam deserunt rem aspernatur nobis.",
+        "img": "https://static.wikia.nocookie.net/hollowknight/images/8/8f/Thorns_of_Agony.png/revision/latest?cb=20180909165348"
+    }
+]
